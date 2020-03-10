@@ -1,0 +1,29 @@
+{
+  "name": "Projekt-dodatkowy_Furry-game",
+  "version": "1.0.0",
+  "description": "The 'Furry Game' prepared in JavaScript (ES6) as the part of the Coders Lab course (Workshop #4).",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot -d",
+    "start:prod": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartoszKalota/Furry-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartoszKalota/Furry-game/issues"
+  },
+  "homepage": "https://github.com/BartoszKalota/Furry-game#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
