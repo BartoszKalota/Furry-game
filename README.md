@@ -7,7 +7,7 @@ The 'Furry Game' prepared in JavaScript (ES6) and jQuery as the part of the Code
 https://bartoszkalota.github.io/Furry-game/
 
 # Information
-You control the **Furry** on the board and collect coins. Collision with board edges ends the game.
+You control the **Furry** on the board (with keyboard arrows) and collect coins. The coins appear in random fields. Collision with board edges ends the game.
 
 # Technologies
 * JS (ES6)
